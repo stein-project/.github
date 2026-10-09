@@ -9,8 +9,8 @@
 ## Checklist
 
 - [ ] I read the [contributing guide](https://github.com/Stein-Project/.github/blob/main/CONTRIBUTING.md) and signed the [CLA](https://github.com/Stein-Project/.github/blob/main/CLA.md) (the bot asks on your first pull request).
-- [ ] `tools/format.sh` was run and the full build passes.
-- [ ] Rendering, engine or patcher changes: `loader/tools/verify.sh <world>` passes.
+- [ ] The code is formatted and the mod builds (see the repository's README).
+- [ ] I played with the change in the game, with the latest Stein Client.
 - [ ] Nothing in this change comes from Minecraft/Mojang or was copied from another client or mod.
-- [ ] Game logic and physics stay identical to vanilla; player config keys and file names are unchanged.
+- [ ] Player config keys, translation keys and file names are unchanged (or new ones were added instead).
 - [ ] New source files have the repository's licence header.

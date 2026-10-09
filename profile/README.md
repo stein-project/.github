@@ -1,15 +1,18 @@
-## Stein Project
+## Stein
 
-Open-source tools for Minecraft, created by [Breno Xavier](https://github.com/brenoxavier).
+A Minecraft 1.8.9 client by [Breno Xavier](https://github.com/brenoxavier).
 
 Stein runs Minecraft 1.8.9 on **Java 25 and LWJGL 3**, with its own renderer that makes the game faster **without
 changing how it looks**, and a mod platform with a small, stable API.
 
-| Repository | What it is | Licence |
+**[Download the Stein Client](https://github.com/x4vieer/stein-client/releases/latest)** ·
+**[Discord](https://discord.gg/MEHE9b5bjj)**
+
+| | What it is | Licence |
 |---|---|---|
-| [**bridge**](https://github.com/Stein-Project/bridge) | The engine: Java 25, LWJGL 3, Stein GFX renderer, game hooks and patcher | MPL-2.0 |
-| [**loader**](https://github.com/Stein-Project/loader) | The mod platform: loads `.steinmod` files and gives them the Stein API | MPL-2.0 (API: MIT) |
-| [**sdk**](https://github.com/Stein-Project/sdk) | Everything to write a mod: the API, a Gradle plugin, a template and examples | MIT |
+| **Stein Client**, Stein Bridge, Stein Loader | The launcher, the engine and the mod platform | Proprietary |
+| **Stein mods** | HUD, Connect, Keybind, Mouse, Replay: published here as open source as they are ready | MPL-2.0 |
+| **[Stein SDK](https://github.com/x4vieer/stein-sdk/releases/latest)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example | MIT |
 
 **Principles**
 
@@ -18,7 +21,11 @@ changing how it looks**, and a mod platform with a small, stable API.
   Anything that changes what the player sees or does is opt-in.
 - **Game logic stays vanilla.** Stein works on any vanilla server.
 
-**Contributing:** read the [contributing guide](https://github.com/Stein-Project/.github/blob/main/CONTRIBUTING.md)
+**Using Stein in a product** (a launcher, another client, a modpack or a service) needs a licence from the author:
+write to [x4vieer@proton.me](mailto:x4vieer@proton.me). Playing, streaming, making videos and using Stein on servers
+are free.
+
+**Contributing to the mods:** read the [contributing guide](https://github.com/Stein-Project/.github/blob/main/CONTRIBUTING.md)
 and the [trademark policy](https://github.com/Stein-Project/.github/blob/main/TRADEMARK.md).
 
 <sub>Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub>
