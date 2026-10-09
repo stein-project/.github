@@ -1,0 +1,2 @@
+# LF in every checkout, Windows too: the formatter and .editorconfig expect it, and scripts need it.
+* text=auto eol=lf

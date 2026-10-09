@@ -1,0 +1,16 @@
+name: Feature request
+description: An idea, a missing event in the API, or something that would make Stein better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: For a missing API event, say where in the game you need to hook in and what the Forge equivalent is.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: What it would let you or players do.

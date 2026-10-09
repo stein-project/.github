@@ -1,0 +1,37 @@
+name: Bug report
+description: Something does not work as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce
+      placeholder: |
+        1. Join a server / open a world
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Stein Bridge, Stein Loader and mod versions (shown in the Stein menu and in F3).
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: System
+      description: Operating system and graphics card.
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: Attach logs/latest.log (and the crash report, if there is one).
