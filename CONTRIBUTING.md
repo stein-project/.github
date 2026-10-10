@@ -1,6 +1,6 @@
 # Contributing to Stein
 
-Thanks for your interest! The **Stein mods** (HUD, Connect, Keybind, Mouse, Replay) are open source, and bug
+Thanks for your interest! The **Stein mods** (HUD, Connect, Keybind, Replay) are open source, and bug
 reports, ideas and pull requests to them are welcome. This guide applies to every public Stein repository; each
 one also has its own README with what is specific to it (how to build, what to test).
 
