@@ -11,8 +11,8 @@ changing how it looks**, and a mod platform with a small, stable API.
 | | What it is | Licence |
 |---|---|---|
 | **Stein Client**, Stein Bridge, Stein Loader | The launcher, the engine and the mod platform | Proprietary |
-| **Stein mods** | HUD, Connect, Keybind, Replay: published here as open source as they are ready | MPL-2.0 |
-| **[Stein SDK](https://github.com/x4vieer/stein-sdk/releases/latest)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example | MIT |
+| **Stein mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Keybind](https://github.com/Stein-Project/keybind), [Replay](https://github.com/Stein-Project/replay): open source | MPL-2.0 |
+| **[Stein SDK](https://github.com/x4vieer/stein-sdk/releases/latest)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example ([source](https://github.com/Stein-Project/sdk)) | MIT |
 
 **Principles**
 
