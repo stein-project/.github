@@ -104,7 +104,7 @@ Describe in the pull request what you ran and what you saw.
 ## Contributor License Agreement
 
 Before your first pull request is merged, you need to sign the [Contributor License Agreement](CLA.md). The CLA
-bot asks you on the pull request, and you sign once by replying with a comment.
+bot asks you on the pull request, and you sign by replying with the sentence it gives you (once in each repository).
 
 The CLA gives the project owner, Breno Xavier, a broad licence to your contribution, including the right to
 relicense it. You keep your copyright, and the history keeps your name.
