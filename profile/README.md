@@ -2,8 +2,8 @@
 
 Open-source tools for Minecraft, by [Breno Xavier](https://github.com/brenoxavier).
 
-Stein started as a platform for the Minecraft 1.8.9 client and is growing into more: a Discord bot and tools for
-servers are next.
+Stein started as a platform for the Minecraft 1.8.9 client and is growing into more: Stein Bot, a Minecraft bot,
+and tools for servers are next.
 
 **[Download the Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)** ·
 **[Discord](https://discord.gg/MEHE9b5bjj)**
