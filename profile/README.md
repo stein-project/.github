@@ -18,7 +18,7 @@ it looks**, a mod platform with a small, stable API, a launcher and mods.
 | **Stein Client** | The launcher | Proprietary |
 | [Stein Bridge](https://github.com/Stein-Project/bridge), [Stein Loader](https://github.com/Stein-Project/loader), [installer](https://github.com/Stein-Project/installer) | The engine, the mod platform and its installer: open source | MPL-2.0 |
 | **Stein mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Keybind](https://github.com/Stein-Project/keybind), [Replay](https://github.com/Stein-Project/replay): open source | MPL-2.0 |
-| **Third-party mods** | Mods by other authors, such as [Combat](https://github.com/brenoxavier/SteinCombat) and [Mouse](https://github.com/brenoxavier/SteinMouse): the player adds them in the Stein Client, which keeps them updated ([how to publish one](https://github.com/Stein-Project/stein-sdk#publishing-your-mod)) | Their author's |
+| **Third-party mods** | Mods by other authors: the player adds them in the Stein Client, which keeps them updated ([how to publish one](https://github.com/Stein-Project/stein-sdk#publishing-your-mod)) | Their author's |
 | **[Stein SDK](https://github.com/Stein-Project/stein-sdk/releases/latest)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example ([source](https://github.com/Stein-Project/sdk)) | MIT |
 
 ### Principles
