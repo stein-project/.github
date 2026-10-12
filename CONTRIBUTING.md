@@ -1,11 +1,12 @@
 # Contributing to Stein
 
-Thanks for your interest! The **Stein mods** (HUD, Connect, Keybind, Replay) are open source, and bug
-reports, ideas and pull requests to them are welcome. This guide applies to every public Stein repository; each
-one also has its own README with what is specific to it (how to build, what to test).
+Thanks for your interest! Stein Bridge, Stein Loader, the installer, the Stein SDK and the Stein mods are open
+source, and bug reports, ideas and pull requests to them are welcome. This guide applies to every public Stein
+Project repository; each one also has its own README (and some their own CONTRIBUTING) with what is specific to it
+(how to build, what to test).
 
-The Stein Client, Stein Bridge and Stein Loader are proprietary and not public. Report their bugs and ask for API
-changes on the [Discord](https://discord.gg/MEHE9b5bjj) or in an issue of any mod repository.
+Only the Stein Client, the launcher, is not public. Report its bugs on the [Discord](https://discord.gg/MEHE9b5bjj)
+or in an issue of any public repository.
 
 - [How the project is run](#how-the-project-is-run)
 - [Before you start](#before-you-start)
@@ -40,8 +41,11 @@ Be kind and constructive: see the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 - **Nothing from Mojang/Minecraft in the repository.** No game code, no game assets, no decompiled sources, no
   mapping files. Mods are built with the Stein SDK, which reads the player's own copy of the game.
-- **Nothing copied from other clients or mods** (OptiFine, Lunar, Sodium and the like), including decompiled or
-  "translated" code. Reading public documentation for ideas is fine; copying is not.
+- **Nothing copied from other clients, mods or servers** (OptiFine, Lunar, Sodium and the like), including decompiled
+  or "translated" code. Reading public documentation for ideas is fine; copying is not.
+
+For the Minecraft 1.8.9 client repositories (Bridge, Loader, installer, SDK and mods), also:
+
 - **Game logic and physics stay identical to vanilla.** A mod changes what the client shows and offers, never how
   the game plays. Mods must keep working on any vanilla server.
 - **Be honest with servers.** No features that play for the player or give a combat advantage (automated clicks,
@@ -50,8 +54,8 @@ Be kind and constructive: see the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Setting up
 
-You need **JDK 17 or newer** to run Gradle (the build downloads JDK 25 for compiling), a graphics card with
-**OpenGL 4.1** or newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)**
+For the Minecraft 1.8.9 client repositories, you need **JDK 17 or newer** to run Gradle (the build downloads JDK 25
+for compiling), a graphics card with **OpenGL 4.1** or newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)**
 to play with your change. The [Stein SDK](https://github.com/Stein-Project/stein-sdk) guide explains the
 API and how a mod is built; each mod's README has its own commands.
 
@@ -70,7 +74,8 @@ API and how a mod is built; each mod's README has its own commands.
 
 ## Testing your change
 
-Every pull request must build cleanly. Then play with it in the game, with the latest Stein Client:
+Every pull request must build cleanly. For the client repositories, then play with it in the game, with the latest
+Stein Client:
 
 | You changed | Also show |
 |---|---|
@@ -106,6 +111,7 @@ relicense it. You keep your copyright, and the history keeps your name.
 
 ## Licence
 
-The Stein mods are licensed under the Mozilla Public License 2.0. The Stein SDK, its template and examples, and the
-Stein Loader mod API are licensed under MIT. The Stein Client, Stein Bridge and Stein Loader are proprietary.
+Stein Bridge, Stein Loader, the installer and the Stein mods are licensed under the Mozilla Public License 2.0. The
+Stein SDK, its template and examples, and the Stein Loader mod API are licensed under MIT. The Stein Client is
+proprietary. Each repository says its licence in its LICENSE file.
 Contributions are accepted under the licence of the file you change.

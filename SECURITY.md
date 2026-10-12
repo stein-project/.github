@@ -5,10 +5,11 @@ run code it should not, account or token exposure, or a problem in the installer
 
 Report it privately:
 
-- **In a Stein mod**: with [GitHub's private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
-  on that mod's repository (**Security** tab → **Report a vulnerability**).
-- **In the Stein Client, Stein Bridge or Stein Loader** (not public): through the same form on any Stein mod
-  repository, or by direct message to the maintainer on the [Discord](https://discord.gg/MEHE9b5bjj).
+- **In a public Stein Project repository** (the Bridge, the Loader, the installer, the SDK, a mod): with
+  [GitHub's private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)
+  on that repository (**Security** tab → **Report a vulnerability**).
+- **In the Stein Client** (not public): through the same form on any public Stein Project repository, or by direct
+  message to the maintainer on the [Discord](https://discord.gg/MEHE9b5bjj).
 
 Include what you found, how to reproduce it and which version you tested. You will get an answer as soon as
 possible, and credit in the fix's release notes if you want it.

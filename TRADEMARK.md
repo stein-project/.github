@@ -22,12 +22,12 @@ No licence of any Stein component (proprietary, MPL-2.0 or MIT) grants rights to
 - Using the marks in a way that suggests your project is official, endorsed by Stein or made by its author when it
   isn't.
 - Distributing anything under the Stein name or logo that is not an official, unmodified Stein release. The Stein
-  Client, Stein Bridge and Stein Loader themselves may only be redistributed with written permission (see their
-  licence).
+  Client itself may only be redistributed with written permission (see its licence).
 
-## If you fork a Stein mod
+## If you fork a Stein component
 
-The open-source mods are under the MPL-2.0, which lets you change and distribute them. Your fork must:
+The open-source components (Stein Bridge, Stein Loader, the installer and the mods) are under the MPL-2.0, which lets
+you change and distribute them. Your fork must:
 
 1. **Use a different name and logo**, everywhere users see it.
 2. **Credit the original**, visibly, with a link back: "Based on the Stein HUD mod by Breno Xavier —

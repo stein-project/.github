@@ -5,4 +5,4 @@ contact_links:
     about: Report security problems privately, not in an issue.
   - name: Help, questions and the Stein Client
     url: https://discord.gg/MEHE9b5bjj
-    about: Ask on the Discord. The Stein Client, Bridge and Loader are not public; report their bugs there.
+    about: Ask on the Discord. The Stein Client is not public; report its bugs there.
