@@ -5,7 +5,7 @@ A Minecraft 1.8.9 client by [Breno Xavier](https://github.com/brenoxavier).
 Stein runs Minecraft 1.8.9 on **Java 25 and LWJGL 3**, with its own renderer that makes the game faster **without
 changing how it looks**, and a mod platform with a small, stable API.
 
-**[Download the Stein Client](https://github.com/x4vieer/stein-client/releases/latest)** ·
+**[Download the Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)** ·
 **[Discord](https://discord.gg/MEHE9b5bjj)**
 
 | | What it is | Licence |
@@ -13,6 +13,7 @@ changing how it looks**, and a mod platform with a small, stable API.
 | **Stein Client** | The launcher | Proprietary |
 | [Stein Bridge](https://github.com/Stein-Project/bridge), [Stein Loader](https://github.com/Stein-Project/loader), [installer](https://github.com/Stein-Project/installer) | The engine, the mod platform and its installer: open source | MPL-2.0 |
 | **Stein mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Keybind](https://github.com/Stein-Project/keybind), [Replay](https://github.com/Stein-Project/replay): open source | MPL-2.0 |
+| **Third-party mods** | Mods by other authors, such as [Combat](https://github.com/brenoxavier/SteinCombat) and [Mouse](https://github.com/brenoxavier/SteinMouse): the player adds them in the Stein Client, which keeps them updated ([how to publish one](https://github.com/Stein-Project/stein-sdk#publishing-your-mod)) | Their author's |
 | **[Stein SDK](https://github.com/Stein-Project/stein-sdk/releases/latest)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example ([source](https://github.com/Stein-Project/sdk)) | MIT |
 
 **Principles**

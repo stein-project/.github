@@ -51,8 +51,8 @@ Be kind and constructive: see the [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Setting up
 
 You need **JDK 17 or newer** to run Gradle (the build downloads JDK 25 for compiling), a graphics card with
-**OpenGL 4.1** or newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://github.com/x4vieer/stein-client/releases/latest)**
-to play with your change. The [Stein SDK](https://github.com/x4vieer/stein-sdk/releases/latest) guide explains the
+**OpenGL 4.1** or newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)**
+to play with your change. The [Stein SDK](https://github.com/Stein-Project/stein-sdk) guide explains the
 API and how a mod is built; each mod's README has its own commands.
 
 ## Code style
