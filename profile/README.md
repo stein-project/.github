@@ -15,7 +15,7 @@ it looks**, a mod platform with a small, stable API, a launcher and mods.
 
 | | What it is | Licence |
 |---|---|---|
-| **Stein Client** | The launcher | Proprietary |
+| [Stein Client](https://github.com/Stein-Project/client) | The launcher: open source | MPL-2.0 |
 | [Stein Bridge](https://github.com/Stein-Project/bridge), [Stein Loader](https://github.com/Stein-Project/loader), [installer](https://github.com/Stein-Project/installer) | The engine, the mod platform and its installer: open source | MPL-2.0 |
 | **Stein mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Keybind](https://github.com/Stein-Project/keybind), [Replay](https://github.com/Stein-Project/replay): open source | MPL-2.0 |
 | **Third-party mods** | Mods by other authors: the player adds them in the Stein Client, which keeps them updated ([how to publish one](https://github.com/Stein-Project/stein-sdk#publishing-your-mod)) | Their author's |
@@ -30,10 +30,9 @@ it looks**, a mod platform with a small, stable API, a launcher and mods.
 
 ### Using and contributing
 
-**Using Stein in a product** (a launcher, another client, a modpack or a service): the Bridge, the Loader, the
-installer and the mods can be used under the MPL-2.0 (changes to their files stay open source); the Stein name and logo follow the
-[trademark policy](https://github.com/Stein-Project/.github/blob/main/TRADEMARK.md), and the Stein Client needs a
-licence from the author: write to [x4vieer@proton.me](mailto:x4vieer@proton.me). Playing, streaming, making videos and
+**Using Stein in a product** (a launcher, another client, a modpack or a service): the Stein Client, the Bridge, the
+Loader, the installer and the mods can be used under the MPL-2.0 (changes to their files stay open source); the Stein
+name and logo follow the [trademark policy](https://github.com/Stein-Project/.github/blob/main/TRADEMARK.md). Playing, streaming, making videos and
 using Stein on servers are free.
 
 **Contributing to any open-source Stein repository:** read the [contributing guide](https://github.com/Stein-Project/.github/blob/main/CONTRIBUTING.md)

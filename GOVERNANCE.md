@@ -1,7 +1,7 @@
 # Governance
 
-Stein has a single maintainer. Only the Stein Client, the launcher, is proprietary and developed privately; everything
-else in the Stein Project is open source and takes contributions in its repositories here.
+Stein has a single maintainer. Everything in the Stein Project is open source and takes contributions in its
+repositories here.
 
 ## Roles
 
@@ -18,8 +18,7 @@ else in the Stein Project is open source and takes contributions in its reposito
 - Features, removals, anything that changes what players see: proposed in an issue first; the maintainer decides,
   after discussion when it is useful.
 - Requests for the mod API go to an issue in the Loader repository, and requests for the Stein Client to an issue in
-  any public repository or to the
-  [Discord](https://discord.gg/MEHE9b5bjj); the maintainer decides whether and how they land.
+  the [client](https://github.com/Stein-Project/client) repository; the maintainer decides whether and how they land.
 - The maintainer may decline any contribution, and will say why.
 
 ## Releases

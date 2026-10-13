@@ -5,9 +5,6 @@ source, and bug reports, ideas and pull requests to them are welcome. This guide
 Project repository; each one also has its own README (and some their own CONTRIBUTING) with what is specific to it
 (how to build, what to test).
 
-Only the Stein Client, the launcher, is not public. Report its bugs on the [Discord](https://discord.gg/MEHE9b5bjj)
-or in an issue of any public repository.
-
 - [How the project is run](#how-the-project-is-run)
 - [Before you start](#before-you-start)
 - [Rules that are not negotiable](#rules-that-are-not-negotiable)
@@ -111,7 +108,7 @@ relicense it. You keep your copyright, and the history keeps your name.
 
 ## Licence
 
-Stein Bridge, Stein Loader, the installer and the Stein mods are licensed under the Mozilla Public License 2.0. The
-Stein SDK, its template and examples, and the Stein Loader mod API are licensed under MIT. The Stein Client is
-proprietary. Each repository says its licence in its LICENSE file.
+The Stein Client, Stein Bridge, Stein Loader, the installer and the Stein mods are licensed under the Mozilla Public
+License 2.0. The Stein SDK, its template and examples, and the Stein Loader mod API are licensed under MIT. Each
+repository says its licence in its LICENSE file.
 Contributions are accepted under the licence of the file you change.

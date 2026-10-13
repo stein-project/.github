@@ -3,6 +3,6 @@ contact_links:
   - name: Security problem
     url: https://github.com/Stein-Project/.github/blob/main/SECURITY.md
     about: Report security problems privately, not in an issue.
-  - name: Help, questions and the Stein Client
+  - name: Help and questions
     url: https://discord.gg/MEHE9b5bjj
-    about: Ask on the Discord. The Stein Client is not public; report its bugs there.
+    about: Ask on the Discord.
