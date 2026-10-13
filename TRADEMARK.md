@@ -7,7 +7,7 @@ put the Stein name on something that isn't Stein.
 The marks include the names "Stein", "Stein Client", "Stein Loader", "Stein Bridge", "Stein GFX", "Stein SDK",
 "Stein Bot" and "Stein Labs", and the Stein logo and icons.
 
-No licence of any Stein component (proprietary, MPL-2.0 or MIT) grants rights to these marks.
+No licence of any Stein component (MPL-2.0 or MIT) grants rights to these marks.
 
 ## Allowed without asking
 
