@@ -52,8 +52,8 @@ For the Minecraft 1.8.9 client repositories (Bridge, Loader, installer, SDK and 
 ## Setting up
 
 For the Minecraft 1.8.9 client repositories, you need **JDK 25 or newer**, a graphics card with **OpenGL 4.1** or
-newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://github.com/Stein-Project/stein-client/releases/latest)**
-to play with your change. The [Stein SDK](https://github.com/Stein-Project/stein-sdk) guide explains the
+newer, **Minecraft 1.8.9** installed, and the **[Stein Client](https://stein-project.github.io/downloads/)**
+to play with your change. The [Stein SDK](https://github.com/Stein-Project/sdk) guide explains the
 API and how a mod is built; each mod's README has its own commands.
 
 ## Code style
