@@ -45,8 +45,10 @@ For the Minecraft 1.8.9 client repositories (Bridge, Loader, installer, SDK and 
 
 - **Game logic and physics stay identical to vanilla.** A mod changes what the client shows and offers, never how
   the game plays. Mods must keep working on any vanilla server.
-- **Be honest with servers.** No features that play for the player or give a combat advantage (automated clicks,
-  extended reach, seeing through walls and the like).
+- **Be honest with servers.** A mod says it is there and lists what a server can turn off. The base mods, the ones
+  the Stein Client brings, have no features that play for the player or give a combat advantage (automated clicks,
+  extended reach, seeing through walls and the like). Mods for specific servers are official extras: the player adds
+  them and chooses what to turn on, and a server can turn them off.
 - **Mods use the Stein API**, not the game's OpenGL directly: the Stein renderer runs in an OpenGL core context.
 
 ## Setting up

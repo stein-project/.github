@@ -18,7 +18,8 @@ it looks**, a mod platform with a small, stable API, a launcher and mods.
 |---|---|---|
 | [Stein Client](https://github.com/Stein-Project/client) | The launcher: open source | MPL-2.0 |
 | [Stein Bridge](https://github.com/Stein-Project/bridge), [Stein Loader](https://github.com/Stein-Project/loader), [installer](https://github.com/Stein-Project/installer) | The engine, the mod platform and its installer: open source | MPL-2.0 |
-| **Stein mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Keybind](https://github.com/Stein-Project/keybind), [Replay](https://github.com/Stein-Project/replay): open source | MPL-2.0 |
+| **Base mods** | [HUD](https://github.com/Stein-Project/hud), [Connect](https://github.com/Stein-Project/connect), [Replay](https://github.com/Stein-Project/replay): they come with the Stein Client, open source | MPL-2.0 |
+| **Official extras** | [Keybind](https://github.com/Stein-Project/keybind), [Minimap](https://github.com/Stein-Project/minimap), [Mouse](https://github.com/Stein-Project/mouse), [Combat](https://github.com/Stein-Project/combat): for specific servers, the player adds them, open source | MPL-2.0 |
 | **Third-party mods** | Mods by other authors: the player adds them in the Stein Client, which keeps them updated ([how to publish one](https://github.com/Stein-Project/sdk#publishing-your-mod)) | Their author's |
 | **[Stein SDK](https://github.com/Stein-Project/sdk)** and the mod API | Everything to write your own mod: the API, a Gradle plugin, a template and an example | MIT |
 
